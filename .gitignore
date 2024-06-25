@@ -1,3 +1,10 @@
+# from rstantools
+^rcppExports.cpp$
+^stanExports_*
+
+# mac users
+.DS_Store
+
 # History files
 .Rhistory
 .Rapp.history
