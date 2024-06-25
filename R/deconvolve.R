@@ -29,7 +29,7 @@ deconvolve <- function(X,Y,tol=0.05,iter=1e3,cores=4,chains=4,...){
     tol = tol # tolerance for data likelihood
   )
   ## sampling
-  sampling(stanmodels$bdcF, data = sdata, chains = chains, cores = cores, iter = iter, ...)
+  rstan::sampling(stanmodels$bdcF, data = sdata, chains = chains, cores = cores, iter = iter, ...)
 }
 
 ##' Extract proportions from samples
