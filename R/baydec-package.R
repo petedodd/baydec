@@ -1,18 +1,6 @@
-#' The 'baydec' package.
-#'
-#' @description A DESCRIPTION OF THE PACKAGE
-#'
-#' @docType package
-#' @name baydec-package
-#' @aliases baydec
-#' @useDynLib baydec, .registration = TRUE
-#' @import methods
-#' @import Rcpp
-#' @importFrom rstan sampling
-#' @importFrom rstantools rstan_config
-#' @importFrom RcppParallel RcppParallelLibs
-#'
-#' @references
-#' Stan Development Team (NA). RStan: the R interface to Stan. R package version 2.32.6. https://mc-stan.org
-#'
+#' @keywords internal
+"_PACKAGE"
+
+## usethis namespace: start
+## usethis namespace: end
 NULL

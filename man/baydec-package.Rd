@@ -2,16 +2,14 @@
 % Please edit documentation in R/baydec-package.R
 \docType{package}
 \name{baydec-package}
-\alias{baydec-package}
 \alias{baydec}
-\title{The 'baydec' package.}
+\alias{baydec-package}
+\title{baydec: What the Package Does (One Line, Title Case)}
 \description{
-A DESCRIPTION OF THE PACKAGE
-}
-\references{
-Stan Development Team (NA). RStan: the R interface to Stan. R package version 2.32.6. https://mc-stan.org
+What the package does (one paragraph).
 }
 \author{
 \strong{Maintainer}: First Last \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
 
 }
+\keyword{internal}
