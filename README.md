@@ -20,7 +20,7 @@ library(ggplot2)     #for plotting
 ```
 
 
-Some example data (the `darmanis`` data from BEDwARS):
+Some example data (the `darmanis` data from BEDwARS):
 
 ```r
 data(darmanis)
