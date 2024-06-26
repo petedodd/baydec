@@ -2,6 +2,9 @@
 ^rcppExports.cpp$
 ^stanExports_*
 
+*.dll
+*.so
+
 # mac users
 .DS_Store
 
