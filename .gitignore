@@ -4,6 +4,7 @@
 
 *.dll
 *.so
+*.o
 
 # mac users
 .DS_Store
