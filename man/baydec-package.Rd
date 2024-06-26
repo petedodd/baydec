@@ -4,12 +4,12 @@
 \name{baydec-package}
 \alias{baydec}
 \alias{baydec-package}
-\title{baydec: What the Package Does (One Line, Title Case)}
+\title{baydec: Bayesian Deconvolution}
 \description{
-What the package does (one paragraph).
+Bayesian Deconvolution using MCMC, with cytometry data in mind.
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
+\strong{Maintainer}: Pete Dodd \email{p.j.dodd@sheffield.ac.uk} (\href{https://orcid.org/0000-0001-5825-9347}{ORCID})
 
 }
 \keyword{internal}
